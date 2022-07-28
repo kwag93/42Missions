@@ -1,0 +1,5 @@
+Credentials cache: API:B3817122-DACF-4A82-ADCE-8A9747547BF0
+        Principal: bkwag@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+May 25 13:58:58 2020  May 25 23:58:58 2020  FPRIA  krbtgt/42SEOUL.KR@42SEOUL.KR
